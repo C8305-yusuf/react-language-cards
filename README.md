@@ -15,3 +15,5 @@
 
 ## npm install node-sass
 
+![](foto/giris1.jpg)
+![](foto/giris2.jpg)
